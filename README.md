@@ -5,6 +5,4 @@ Tech Stack: Developed using a frontend stack of HTML for structure, CSS for styl
 
 Key Features: Intuitive and clean user interface for seamless task management. Persistent storage enables users to access their to-do lists even after closing the browser.
 
-Learning Highlights: Gained proficiency in DOM manipulation and event handling using JavaScript. Developed skills in creating responsive and visually appealing web interfaces.
 
-Future Improvements: Consider enhancements such as categorization, priority levels, or due dates for tasks. Open to suggestions and contributions for refining and expanding the functionality.
